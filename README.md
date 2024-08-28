@@ -8,3 +8,6 @@
     * 1570.41% av ett år (365.24 dagar)
 * Gillar programmering
   * Programmerat sedan jag var 12 år
+
+* Favorit färg
+  * `#00FFFF`
