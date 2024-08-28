@@ -5,5 +5,6 @@
     * 137 568 timmar gammal
     * 5732 dagar
     * 818 veckor och 6 dagar
-    * 1570.41% av ett år (365 dagar)
+    * 1570.41% av ett år (365.24 dagar)
 * Gillar programmering
+  * Programmerat sedan jag var 12 år
